@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-banner-1.png" alt="Kopf Studio banner" width="88%" />
+  <img src="./assets/header-banner-1.png" alt="Kopf Studio banner" width="92%" />
 </p>
 
 <p align="center">

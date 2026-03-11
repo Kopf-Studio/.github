@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-banner-1.png" alt="Kopf Studio banner" width="92%" />
+  <img src="./assets/header-banner-1.png" alt="Kopf Studio banner" width="90%" />
 </p>
 
 <p align="center">
@@ -10,11 +10,16 @@
   <sub>Premium software systems · Intelligent automation · Scalable digital infrastructure</sub>
 </p>
 
+
+
+## Who We Are
+
 Kopf Studio is the technology partner ambitious companies choose when standard software is no longer enough.
 
 We design and build premium digital infrastructure: high-performance systems, robust backend architectures, intelligent automations, and custom platforms engineered to eliminate bottlenecks, improve execution, and create the foundation for sustainable scale.
 
 Our work is guided by engineering discipline, operational clarity, and long-term thinking. We build software that is meant to perform in the real world — reliably, efficiently, and at scale.
+
 
 ## Core capabilities
 

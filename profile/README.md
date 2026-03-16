@@ -5,7 +5,6 @@
 <p align="center">
   <strong>Software engineering for ambitious companies</strong>
 </p>
-
 <p align="center">
   <sub>Premium software systems · Intelligent automation · Scalable digital infrastructure</sub>
 </p>

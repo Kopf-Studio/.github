@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="./assets/header-banner-1.png" alt="Kopf Studio banner" width="90%" />
-</p>
-
-<p align="center">
-  <strong>Software engineering for ambitious companies</strong>
-</p>
-
-
-
 ## Who We Are
 
 Kopf Studio is the technology partner ambitious companies choose when standard software is no longer enough.
